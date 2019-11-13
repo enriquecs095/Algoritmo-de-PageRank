@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Enrique\source\repos\Proyecto1Estructura1\Proyecto1Estructura1\</FILEPATH>
+      <FILENAME>Nodo.h</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Nodo::URL' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Nodo::{ctor}</FUNCTION>
+    <DECORATED>??0Nodo@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Nodo::URL</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

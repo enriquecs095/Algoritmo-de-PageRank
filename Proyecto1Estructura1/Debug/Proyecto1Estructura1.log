@@ -1,0 +1,9 @@
+﻿  Busqueda.cpp
+C:\Users\Enrique\Documents\Proyecto1Estructura1\Proyecto1Estructura1\Busqueda.cpp(63,8): warning C4101:  'nombre': variable local sin referencia
+C:\Users\Enrique\Documents\Proyecto1Estructura1\Proyecto1Estructura1\Busqueda.cpp(444,19): warning C4018:  '<': no coinciden signed/unsigned
+  Main.cpp
+  Generando código...
+C:\Users\Enrique\Documents\Proyecto1Estructura1\Proyecto1Estructura1\Busqueda.cpp(449,36): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Enrique\Documents\Proyecto1Estructura1\Proyecto1Estructura1\Busqueda.cpp(449,36): warning C4018: C:\Users\Enrique\Documents\Proyecto1Estructura1\Proyecto1Estructura1\Busqueda.cpp(306) : warning C4715: 'Busqueda::Keyword': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Enrique\Documents\Proyecto1Estructura1\Proyecto1Estructura1\Busqueda.cpp(449,36): warning C4018: C:\Users\Enrique\Documents\Proyecto1Estructura1\Proyecto1Estructura1\Busqueda.cpp(322) : warning C4715: 'Busqueda::Nombre': no todas las rutas de acceso de control devuelven un valor
+  Proyecto1Estructura1.vcxproj -> C:\Users\Enrique\Documents\Proyecto1Estructura1\Debug\Proyecto1Estructura1.exe
